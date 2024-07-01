@@ -1,4 +1,6 @@
-<img src="frontimage.jpg" alt="Profile Photo">
+<div align="center">
+  <img src="frontimage.jpg" alt="front image">
+</div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rusul F. Hasan
 ======================================================================================================================================
