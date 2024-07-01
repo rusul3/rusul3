@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rusul3/frontimage/main/frontimage.jpg" alt="Profile Photo" width="900" hight="10">
+  <img src="https://raw.githubusercontent.com/rusul3/frontimage/main/frontimage.jpg" alt="Profile Photo" width="900" height="15">
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rusul F. Hasan
