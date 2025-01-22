@@ -37,4 +37,33 @@ Over the past two years, I transitioned careers and immersed myself in coding, s
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rusul3/Order_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Order_App&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><div width="100%" align="center"><a href="https://github.com/rusul3/Monthly-budget-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Order_App&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/rusul3/Book-barrow-database" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Book-barrow-database&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/rusul3/Write-your-name-in-Sumerian-" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Write-your-name-in-Sumerian-&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><div width="100%" align="center"><a href="https://github.com/rusul3/trip-to-Iraq" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=trip-to-Iraq&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<div align="center"><b>Top Repositories</b></div>
+
+<div align="center">
+  <a href="https://github.com/rusul3/Order_App">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Order_App&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/rusul3/Monthly-budget-app">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Monthly-budget-app&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br><br><br><br><br><br><br>
+
+<div align="center">
+  <a href="https://github.com/rusul3/Book-barrow-database">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Book-barrow-database&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/rusul3/Write-your-name-in-Sumerian-">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Write-your-name-in-Sumerian-&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br><br><br><br><br><br><br>
+
+<div align="center">
+  <a href="https://github.com/rusul3/trip-to-Iraq">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=trip-to-Iraq&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+  </a>
+</div>
+
