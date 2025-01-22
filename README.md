@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rusul F. Hasan
 ======================================================================================================================================
 
-T - level digital product design and development
+Digital product design and development
 ------------------------------------------------
 
 Over the past two years, I transitioned careers and immersed myself in coding, starting with Python and expanding to SQL, HTML, CSS, and more. I built a strong foundation in programming fundamentals, create App, data management, and web development, while continuously learning new languages and technologies like R, JavaScript, React, and Java. This journey has equipped me with the skills to tackle real-world projects, foster creativity, and embrace ongoing growth in the tech industry.
