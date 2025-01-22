@@ -12,7 +12,7 @@ Over the past two years, I transitioned careers and immersed myself in coding, s
 
 * 🌍  I'm based in Exeter
 * ✉️  You can contact me at [rusulhasan1988@gmail.com](mailto:rusulhasan1988@gmail.com)
-* 🧠  I'm learning R
+* 🧠  I'm learning Data Analyst by use R ,Python ,PowerBI ,SQL 
 * ⚡  I love to learn new things
 
 ### Skills
@@ -37,7 +37,7 @@ Over the past two years, I transitioned careers and immersed myself in coding, s
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rusul3/Order_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Order_App&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/rusul3/Book-barrow-database" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Book-barrow-database&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/rusul3/Order_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Order_App&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><div width="100%" align="center"><a href="https://github.com/rusul3/Monthly-budget-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Order_App&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/rusul3/Book-barrow-database" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Book-barrow-database&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/rusul3/Write-your-name-in-Sumerian-" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Write-your-name-in-Sumerian-&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
