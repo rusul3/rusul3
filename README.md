@@ -62,7 +62,7 @@ Over the past two years, I transitioned careers and immersed myself in coding, s
 
 <div align="center">
   <a href="https://github.com/rusul3/Calculator">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Write-your-name-in-Sumerian-&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=Calculator&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/rusul3/trip-to-Iraq">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=trip-to-Iraq&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
