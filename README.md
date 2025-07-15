@@ -72,6 +72,6 @@ Over the past two years, I transitioned careers and immersed myself in coding, s
 <br><br><br><br><br><br><br>
 <div align="center">
   <a href="https://github.com/rusul3/MYMOD-in-R">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=MYNOD-in-R&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rusul3&repo=MYMOD-in-R&title_color=000000&text_color=3382ed&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
   </a>
 </div>
